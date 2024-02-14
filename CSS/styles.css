@@ -25,7 +25,7 @@ color: brown;
 }
 
 #intro{
-height: 150vh;
+height: 100vh;
 border: 1px solid grey;
 display: flex;
 justify-content: center;
@@ -33,7 +33,7 @@ align-items: center;
 }
 
 #carta{
-height: 150vh;
+height: 100vh;
 border: 1px solid grey;
 display: flex;
 justify-content: center;
@@ -78,8 +78,4 @@ background-repeat: round;
 #carta{
 background-color: #FFDFFB;
 
-.Container h1{
-font-size: 3em;
-font-family: 'Arial', sans-serif;
-}
 }
