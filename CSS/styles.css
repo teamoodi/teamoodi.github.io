@@ -1,0 +1,85 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+header{
+height: 45px;
+}
+header nav ul{
+display: flex;
+margin-left: 70%;
+list-style: none;
+}
+
+header nav ul li{
+padding-left: 10%;
+}
+
+header a{
+text-decoration: none;
+color: brown;
+
+
+
+}
+
+#intro{
+height: 125vh;
+border: 1px solid grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#carta{
+height: 130vh;
+border: 1px solid grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+.Container img{
+height: 300px;
+align-items: center;
+justify-content: center;
+
+}
+
+.Container h2{
+margin-top: 2%;
+font-size: 4em;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.Container p, ul{
+margin-top: 2%;
+font-size: 1.5rem;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+line-height: 40px;
+display: flex;
+justify-content: center;
+font-size: 1rem;
+}
+
+#intro {
+background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3Y0MzgtdGFuZy0xNGEtY2hlcnJ5Ymxvc3NvbV8xLmpwZw.jpg);
+
+background-repeat: round;
+}
+#carta{
+background-color: #FFDFFB;
+
+.Container h1{
+font-size: 3em;
+font-family: 'Arial', sans-serif;
+}
+}
