@@ -33,7 +33,7 @@ align-items: center;
 }
 
 #carta{
-height: 200vh;
+height: 300vh;
 border: 1px solid grey;
 display: flex;
 justify-content: center;
@@ -63,7 +63,10 @@ font-size: 4em;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-
+.Container h1{
+font-size: 3em;
+font-family: 'Arial', sans-serif;
+}
 .Container p, ul{
 margin-top: 2%;
 font-size: 1.5rem;
@@ -85,16 +88,9 @@ background-repeat: round;
 #carta{
 background-color: #FFDFFB;
 
-.Container h1{
-font-size: 3em;
-font-family: 'Arial', sans-serif;
-}
 }
 #rescate{
 background-color: #B5F8F8;
 
-.Container h1{
-font-size: 3em;
-font-family: 'Arial', sans-serif;
-}
+
 }
