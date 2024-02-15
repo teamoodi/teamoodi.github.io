@@ -48,6 +48,13 @@ justify-content: center;
 align-items: center;
 }
 
+#resc{
+height: 100vh;
+border: 1px solid grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
 
 .Container img{
@@ -93,4 +100,10 @@ background-color: #FFDFFB;
 background-color: #B5F8F8;
 
 
+}
+
+#intro {
+background-image: url(https://img.freepik.com/free-vector/gradient-pastel-sky-background_23-2148917404.jpg);
+
+background-repeat: round;
 }
