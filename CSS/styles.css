@@ -40,6 +40,13 @@ justify-content: center;
 align-items: center;
 }
 
+#rescate{
+height: 100vh;
+border: 1px solid grey;
+display: flex;
+justify-content: center;
+align-items: center;
+}
 
 
 
@@ -77,6 +84,14 @@ background-repeat: round;
 }
 #carta{
 background-color: #FFDFFB;
+
+.Container h1{
+font-size: 3em;
+font-family: 'Arial', sans-serif;
+}
+}
+#rescate{
+background-color: #B5F8F8;
 
 .Container h1{
 font-size: 3em;
